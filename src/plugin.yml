@@ -1,0 +1,12 @@
+name: BasicRanks
+author: tryce
+version: 1.0
+main: me.tryce.basicranks.Main
+description: A simple rank plugin, perfect for Kitpvp, UHC, HCF and more!
+
+commands:
+  basicranks:
+    aliases: [ranks, rank, basicrank, group, groups]
+permissions:
+   basicranks.admin:
+     default: op

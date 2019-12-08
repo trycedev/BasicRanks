@@ -1,0 +1,7 @@
+# If you wish to use chat prefixes and suffixes, set this to true.
+use-chat: true
+
+# Set the default rank. !Case-Sensitive!
+# The default rank at first is: Default
+default-rank: 'Default'
+  
